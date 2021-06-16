@@ -2,7 +2,7 @@
 
 
 - 👨🏻‍💻 Im a Computer Science Grad!
-- Hit me up if you want to see some of my private code!
+- my email: [jot@employme.dev](mailto:job@employme.dev)
 
 
 ### my website at [www.harjots.com](http://www.harjots.com/)

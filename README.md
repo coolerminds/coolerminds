@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="43px">
-#Hey, I'm Harjot!  
+# Hey, I'm Harjot!  
 
 - 👨🏻‍💻 Im a Computer Science Grad from Oakland Ca
 

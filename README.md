@@ -2,11 +2,10 @@
 # Hey, I'm Harjot!  
 
 - 👨🏻‍💻 Im a Computer Science Grad!
-
 - Hit me up if you want to see some of my private code!
 
 
-### Check out my website at [www.harjots.com](http://www.harjots.com/)
+### my website at [www.harjots.com](http://www.harjots.com/)
 
 
 ![Harjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolerminds&count_private=true&layout=compact)

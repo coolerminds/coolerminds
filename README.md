@@ -1,5 +1,5 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="43px">
-# Hey, I'm Harjot!  
+# Hey, I'm Harjot!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="43px">
+
 
 - 👨🏻‍💻 Im a Computer Science Grad!
 - Hit me up if you want to see some of my private code!

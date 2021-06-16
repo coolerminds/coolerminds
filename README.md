@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="43px">
 # Hey, I'm Harjot!  
 
-- 👨🏻‍💻 Im a Computer Science Grad from Oakland Ca
+- 👨🏻‍💻 Im a Computer Science Grad!
 
 - Hit me up if you want to see some of my private code!
 
